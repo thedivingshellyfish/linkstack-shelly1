@@ -7,7 +7,7 @@ Find more themes: https://linkstack.org/themes/
 *	Theme Author: Shelly
 *	Theme Author URI: https://github.com/thedivingshellyfish
 *	Theme License: GPLv3
-*	Source code: https://github.com/thedivingshellyfish
+*	Source code: https://github.com/thedivingshellyfish/linkstack-shelly1
 
 
 ### Used assets:
